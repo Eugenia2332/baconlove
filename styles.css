@@ -5,6 +5,7 @@ body {
     padding-top: 2%;
 
 }
+
 h1 {
     color: #D2001A; 
     font-size: 55px;
@@ -15,6 +16,11 @@ h1 {
     word-spacing: 5px;
     padding-bottom: 7%;
 }
+
+h1:hover {
+    color: #e1cc41;
+}
+
 h2 {
     color: #d05d6b; 
     font-size: 45px;
@@ -33,6 +39,7 @@ img {
     width: 265px;
     height: 265px;
 }
+
 p {
     color: #fee716;
     text-shadow: 1px 1px black;
@@ -41,5 +48,8 @@ p {
     letter-spacing: 3px;
     word-spacing: 5px;
     padding-bottom: 5%;
-    
+}
+
+p:hover {
+    color: red
 }
