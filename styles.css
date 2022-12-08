@@ -1,0 +1,45 @@
+body {
+    background-color: #FFFAE7;
+    background-image: url("bacon.jpg");
+    text-align: center;
+    padding-top: 2%;
+
+}
+h1 {
+    color: #D2001A; 
+    font-size: 55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 1px 1px black;
+    text-decoration-line: overline underline;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    padding-bottom: 7%;
+}
+h2 {
+    color: #d05d6b; 
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 1px 1px black;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    padding-bottom: 7%;
+
+}
+
+img {
+    border:#d05d6b;
+    border-radius: 5px;
+    float: center; 
+    width: 265px;
+    height: 265px;
+}
+p {
+    color: #fee716;
+    text-shadow: 1px 1px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    padding-bottom: 5%;
+    
+}
